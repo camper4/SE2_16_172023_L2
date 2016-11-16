@@ -1,0 +1,40 @@
+#titolo {
+	font: bold 250%/1 Tahoma,Arial,sans-serif;
+  text-transform: uppercase;
+	color: #56B11A;
+}
+
+table {
+  table-layout : fixed;
+  width : 300px;
+  background : Silver;
+  caption-side : bottom;
+}
+
+#bottone_limite {
+ outline: none;
+ cursor: pointer;
+ text-align: center;
+ text-decoration: none;
+ font: bold 12px Arial, Helvetica, sans-serif;
+ color: #fff;
+ padding: 5px 10px;
+ border: solid 1px #0076a3;
+ background: #0095cd;
+}
+
+#aggiungi_articoli {
+ outline: none;
+ cursor: pointer;
+ text-align: center;
+ text-decoration: none;
+ font: bold 12px Arial, Helvetica, sans-serif;
+ color: #000000;
+ padding: 5px 10px;
+ border: solid 1px #0076a3;
+ background: #07570a;
+}
+
+table {
+    width: 100%;
+}
